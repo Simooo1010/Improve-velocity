@@ -1,0 +1,4 @@
+node_modules/
+velocity-shots/
+*.log
+.DS_Store

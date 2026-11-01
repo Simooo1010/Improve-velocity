@@ -1,0 +1,13 @@
+{
+  "name": "improve-velocity-harness",
+  "private": true,
+  "description": "Measure section-change speed and fluidity of any web app, framework-agnostic.",
+  "scripts": {
+    "navigation": "node run-navigation.js",
+    "visual": "node run-visual.js",
+    "profile": "node profile.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.50.0"
+  }
+}
