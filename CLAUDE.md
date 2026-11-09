@@ -9,3 +9,7 @@ This repo is a **process + harness** for making web apps fast and fluid with AI 
 - Keep prompts in `prompts/` paste-ready, with `{{placeholders}}`.
 - No secrets, no production data, no real credentials anywhere in the repo.
 - Docs are in English. Short sentences, plain language, commands in fenced blocks.
+
+## Language
+
+Chat with me in Italian. Write all code, comments, commit messages, docs, config files, skills and subagent prompts in English. Exception: deliverables explicitly meant for Italian readers stay in Italian.
